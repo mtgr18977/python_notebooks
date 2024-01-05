@@ -1,2 +1,2 @@
-# python_notebooks
-Diversos notebooks sobre Python
+# Python
+Diversos notebooks sobre Python.
